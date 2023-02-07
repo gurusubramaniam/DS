@@ -15,6 +15,7 @@ var sampleData = [-6, 20, 8, -2, 4]
 console.log(insertionSort(sampleData))
 console.log(sampleData)
 
+//BIG O O(n^2)
 /**
 output 
 Placed Element [ -6, 20, 8, -2, 4 ]
