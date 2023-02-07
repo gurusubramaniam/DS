@@ -15,3 +15,5 @@ function bubbleSort(arr) {
 }
 
 console.log(bubbleSort([-6, 10, 8, -2, 4]))
+
+// Time complexity Big O notation O(n^2)
